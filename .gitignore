@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Kicad
+hardware/*/*-backups/*.zip
+hardware/*/fp-info-cache
+hardware/*/*.kicad_prl
